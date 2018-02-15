@@ -9,6 +9,8 @@ p {
 }
 ul li {
   background-color: yellow;
+  color: black;
+  font-size: 14px;
 }
 h2 {
   color: green
